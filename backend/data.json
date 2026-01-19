@@ -1,0 +1,28 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "code": "CS021",
+      "name": "computer science",
+      "progress": 0,
+      "modules": [
+        {
+          "id": 1,
+          "title": "Algorithmic thinking in python",
+          "completed": false,
+          "topics": [
+            {
+              "id": 1,
+              "title": "module 1",
+              "content": "Hello world ",
+              "completed": false,
+              "priority": "medium",
+              "time": 15,
+              "locked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
